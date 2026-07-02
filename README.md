@@ -127,7 +127,7 @@ Investigated Windows crash reports and documented troubleshooting.
 
 Completed Adobe Acrobat Pro DC installation and verified successful deployment.
 
-![Software Installation](screenshots/08-software-installation-request.png)
+![BSOD](screenshots/07-bluescreen-of-death-bsod.png)
 
 ---
 
