@@ -115,19 +115,11 @@ Granted access to a departmental shared drive after verifying user permissions.
 
 ---
 
-## 7. Bluescreen of Death (BSOD)
-
-Investigated Windows crash reports and documented troubleshooting.
-
-![BSOD](screenshots/07-bluescreen-of-death (bsod).png)
-
----
-
-## 8. Software Installation Request
+## 7. Software Installation Request
 
 Completed Adobe Acrobat Pro DC installation and verified successful deployment.
 
-![BSOD](screenshots/07-bluescreen-of-death-bsod.png)
+![Software Installation](screenshots/08-software-installation-request.png)
 
 ---
 
