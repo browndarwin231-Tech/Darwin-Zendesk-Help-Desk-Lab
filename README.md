@@ -119,7 +119,7 @@ Granted access to a departmental shared drive after verifying user permissions.
 
 Investigated Windows crash reports and documented troubleshooting.
 
-![BSOD](screenshots/07-bluescreen-of-death(bsod).png)
+![BSOD](screenshots/07-bluescreen-of-death (bsod).png)
 
 ---
 
