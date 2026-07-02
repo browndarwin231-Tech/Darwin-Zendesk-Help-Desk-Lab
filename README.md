@@ -14,103 +14,152 @@ The lab simulates common Help Desk scenarios performed by entry-level IT Support
 - Zendesk Support
 - Help Desk Ticket Management
 - Incident Management
-- Service Request Fulfillment
-- Customer Support
-- IT Troubleshooting
+- Service Request Management
+- Customer Communication
+- Technical Troubleshooting
 - Windows 11 Support
 - Microsoft 365 Support
 - VPN Troubleshooting
 - Printer Troubleshooting
-- Software Installation
+- Microsoft Teams Support
 - Shared Drive Permissions
+- Software Installation
 - Internal Documentation
-- Professional Customer Communication
 
 ---
 
-## Tickets Completed
-
-### 1. Password Reset
-Resolved a user account password reset issue after verifying identity and restoring account access.
-
-### 2. VPN Connection Failure
-Diagnosed and resolved VPN connectivity issues by verifying credentials, network connectivity, and VPN configuration.
-
-### 3. Printer Offline
-Troubleshot a network printer that appeared offline and restored printing functionality.
-
-### 4. Shared Drive Access Request
-Verified manager approval, assigned security group permissions, and granted access to a departmental shared drive.
-
-### 5. Microsoft Teams Won't Launch
-Resolved Microsoft Teams startup issues by clearing the Teams cache, repairing Microsoft 365, and updating the application.
-
-### 6. Blue Screen of Death (BSOD)
-Investigated Windows crash logs, updated device drivers, and verified system stability after troubleshooting.
-
-### 7. Software Installation Request
-Installed Adobe Acrobat Pro DC after verifying licensing and confirmed successful activation and functionality.
-
----
-
-# Technologies Used
+## Technologies Used
 
 - Zendesk Support
 - Windows 11
 - Microsoft 365
 - Microsoft Teams
 - Adobe Acrobat Pro DC
+- VPN Client
+- Network Printers
+
+---
+
+# Tickets Completed
+
+### Password Reset
+Resolved a user account login issue by verifying account information and restoring access after a password reset.
+
+### VPN Connection Failure
+Diagnosed VPN connectivity issues, verified network connectivity, reset VPN credentials, restarted VPN services, and confirmed successful access.
+
+### Printer Offline
+Troubleshot a network printer that appeared offline by checking network connectivity, print queue status, and printer availability.
+
+### Shared Drive Access Request
+Verified user authorization, confirmed department membership, and assigned the required permissions to the Finance shared drive.
+
+### Microsoft Teams Won't Launch
+Investigated application startup failures by clearing the Teams cache, verifying updates, and preparing application repair procedures.
+
+### Blue Screen of Death (BSOD)
+Investigated repeated Windows crashes by reviewing system logs, checking drivers, and performing hardware and system diagnostics.
+
+### Software Installation Request
+Installed Adobe Acrobat Pro DC after verifying licensing, completed installation, and confirmed successful operation.
 
 ---
 
 # Screenshots
 
-## 1. Password Reset Ticket
-![Password Reset](screenshots/01-password-reset.png)
+## 1. Zendesk Dashboard Overview
+
+Overview of the Zendesk Support workspace.
+
+![Zendesk Dashboard](screenshots/01-zendesk-dashboard-overview.png)
 
 ---
 
-## 2. VPN Connection Failure
-![VPN Connection](screenshots/02-vpn-connection-failure.png)
+## 2. Password Reset Ticket
+
+Password reset incident demonstrating customer communication and ticket management.
+
+![Password Reset](screenshots/02-password-reset-ticket.png)
 
 ---
 
-## 3. Printer Offline
-![Printer Offline](screenshots/03-printer-offline.png)
+## 3. VPN Connection Failure
+
+Customer-reported VPN connectivity issue.
+
+![VPN Connection Failure](screenshots/03-vpn-connection-failure-ticket.png)
 
 ---
 
-## 4. Shared Drive Access Request
-![Shared Drive](screenshots/04-shared-drive-access-request.png)
+## 4. VPN Connection Resolved
+
+Documented troubleshooting steps and successful VPN restoration.
+
+![VPN Resolved](screenshots/04-vpn-connection-failure-resolved.png)
 
 ---
 
-## 5. Microsoft Teams Won't Launch
-![Microsoft Teams](screenshots/05-microsoft-teams.png)
+## 5. Printer Offline
+
+Resolved a network printer connectivity issue.
+
+![Printer Offline](screenshots/05-printer-offline-resolved.png)
 
 ---
 
-## 6. Blue Screen of Death (BSOD)
-![BSOD](screenshots/06-bsod.png)
+## 6. Shared Drive Access Request
+
+Granted access to a departmental shared drive after verifying user permissions.
+
+![Shared Drive Access](screenshots/06-shared-drive-access-request.png)
 
 ---
 
-## 7. Software Installation Request
-![Software Installation](screenshots/07-software-installation.png)
+## 7. Blue Screen of Death (BSOD)
+
+Investigated Windows crash reports and documented troubleshooting.
+
+![BSOD](screenshots/07-bluescreen-of-death-bsod.png)
 
 ---
 
-## Learning Outcomes
+## 8. Software Installation Request
 
-This lab strengthened practical experience with:
+Completed Adobe Acrobat Pro DC installation and verified successful deployment.
 
-- Incident response
-- Service request management
-- Customer communication
-- Ticket documentation
-- Troubleshooting methodology
-- IT support best practices
-- Zendesk Help Desk workflows
+![Software Installation](screenshots/08-software-installation-request.png)
+
+---
+
+# What I Learned
+
+- Managing the full Help Desk ticket lifecycle
+- Communicating professionally with end users
+- Documenting troubleshooting and resolutions
+- Handling incidents and service requests
+- Troubleshooting Windows 11 and Microsoft 365 issues
+- Working with VPNs, printers, shared drives, and enterprise software
+- Following Help Desk documentation best practices
+
+---
+
+## Repository Structure
+
+```
+Darwin-Zendesk-Help-Desk-Lab/
+│
+├── screenshots/
+│   ├── 01-zendesk-dashboard-overview.png
+│   ├── 02-password-reset-ticket.png
+│   ├── 03-vpn-connection-failure-ticket.png
+│   ├── 04-vpn-connection-failure-resolved.png
+│   ├── 05-printer-offline-resolved.png
+│   ├── 06-shared-drive-access-request.png
+│   ├── 07-bluescreen-of-death-bsod.png
+│   └── 08-software-installation-request.png
+│
+└── README.md
+```
 
 ---
 
