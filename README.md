@@ -115,7 +115,7 @@ Granted access to a departmental shared drive after verifying user permissions.
 
 ---
 
-## 7. Blue Screen of Death (BSOD)
+## 7. Bluescreen of Death (BSOD)
 
 Investigated Windows crash reports and documented troubleshooting.
 
