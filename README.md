@@ -1,8 +1,6 @@
 # Darwin-Zendesk-Help-Desk-Lab
 Hands-on Zendesk Help Desk lab demonstrating IT support ticket management, incident resolution, service requests, customer communication, and technical documentation.
 
-# Darwin Zendesk Help Desk Lab
-
 ## Overview
 
 This project demonstrates hands-on experience using Zendesk Support to manage Help Desk incidents and service requests. It showcases real-world IT support workflows including ticket creation, customer communication, troubleshooting, documentation, and ticket resolution.
